@@ -12,6 +12,7 @@ public class TestMain {
     @BeforeClass
     public static void setUpBeforeClass() throws Exception {
         System.out.println("Setting up before all tests.");
+        System.out.println("Setting up before all tests.");
     }
 
     // This method runs once after all the test methods in the class.
